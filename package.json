@@ -16,6 +16,7 @@
   "dependencies": {
     "async": "^2.0.0",
     "aws-sdk": "^2.2.46",
-    "digest-stream": "^1.0.1"
+    "digest-stream": "^1.0.1",
+    "lodash": "^4.14.0"
   }
 }

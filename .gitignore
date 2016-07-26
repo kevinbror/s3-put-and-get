@@ -90,3 +90,6 @@ local_storage/input
 local_storage/ret
 
 .env
+/test/out/*.jpeg
+/test/out/*.jpg
+/test/out/*.pdf
