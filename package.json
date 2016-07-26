@@ -1,0 +1,21 @@
+{
+  "name": "s3-put-and-get",
+  "version": "0.0.1",
+  "description": "Aws S3 interface",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "lab -L"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "code": "^3.0.1",
+    "dotenv": "^2.0.0",
+    "lab": "^10.9.0"
+  },
+  "dependencies": {
+    "async": "^2.0.0",
+    "aws-sdk": "^2.2.46",
+    "digest-stream": "^1.0.1"
+  }
+}
